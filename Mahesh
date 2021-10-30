@@ -2,3 +2,16 @@ Cool Mahesh, How are you?
 Test line1
 Test line3
 Hello all test data.
+
+
+revert
+------
+git revert cid
+
+.gitignore
+----------
+
+
+fetch
+-----
+git pull= git fetch + git merge
