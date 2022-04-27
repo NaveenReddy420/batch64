@@ -1,1 +1,2 @@
-build 'Job1'
+//build 'Job1'
+echo "HelloWorld"
